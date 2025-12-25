@@ -1,0 +1,4 @@
+project_id = "zmcfldzjgkwibsxiuqic"
+
+[functions.rbac-ai]
+verify_jwt = true
